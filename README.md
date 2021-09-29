@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DanielSchaller
 - 👀 I’m interested in Game- and Web- Development
 - 🌱 I’m currently learning VueJS 3; Adobe XD; C++
-- 📫 How to reach me ...
 
 <!---
 DanielSchaller/DanielSchaller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
